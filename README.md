@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leon-chatelain
-- 👀 I’m interested in Sport Climbing, Mathematics and typical engineering stuff
-- 🌱 I’m currently learning Industrial Engineering at RWTH Aachen University
+- 👀 I’m interested in Sport Climbing, Photography, Mathematics and typical engineering stuff
+- 🌱 I have a M.Sc. in Industrial Engineering and currently work for Siemens Industry Software GmbH
 
 
 <!---
